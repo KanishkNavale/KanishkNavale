@@ -1,5 +1,6 @@
 # Hallo! Ich bin Kanishk
 
+<div style="float:right">
 <table style="float: right">
   <tr>
     <th><img align="center" src="https://nav74neet.github.io/media/blog/openaigym/mountain-car-v0.gif" height="100"></th>
@@ -10,6 +11,7 @@
     <th><img align="center" src="https://github.com/KanishkNavale/Trajectory-Planning-using-HER-and-Reward-Engineering/raw/master/reward_engg.gif" height="100" width="150"></th> 
   </tr>
 </table>
+</div>
 
 <p float="left">
 <a href='https://www.linkedin.com/in/kanishknavale/'>
