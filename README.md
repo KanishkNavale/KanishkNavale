@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KanishkNavale&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
+<img align="right" src="https://i.pinimg.com/originals/05/3c/39/053c39f4c14d99d4bc143c05dc3ca219.gif" height="250">
 
 # Halo! Ich bin Kanishk
 
