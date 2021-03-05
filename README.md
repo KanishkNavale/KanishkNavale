@@ -1,4 +1,4 @@
-# Halo! Ich bin Kanishk
+# Hallo! Ich bin Kanishk
 
 <img align="right" src="https://i.pinimg.com/originals/05/3c/39/053c39f4c14d99d4bc143c05dc3ca219.gif" height="200">
 
@@ -39,4 +39,12 @@
 
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 
+</p>
+
+<p float="left">
+<img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg", height="35" />
+</p>
+
+<p float="left">
+<img src="https://lh3.googleusercontent.com/proxy/zx7b1uk26o-MdN5csYx3QeAOiGL_1013bwk4Pxt0FkqL8mr9kCbAQy-NpvBnWXoZOezhDSRbuGj9YvdeH2ap7Kv4gKBlRbMRijBC0wbabChGwjCtuzf_IyVQI3vjh_JtYYcK_tR216m6CNMxjqL1_wbu1u0", height="35" />
 </p>
