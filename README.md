@@ -27,6 +27,6 @@
 </p>
 
 <p float="left">
-    <img src="https://ifpwww.ifp.uni-stuttgart.de/images/unistuttgart_logo.png" height="40" /> 
+    <img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg" height="35" /> 
     <img src="https://lh3.googleusercontent.com/proxy/VXYmfH3hEw0-7tFW8bc5vFhwN9rC_-DoBeXzngNIwcVDvtSR-73se3SX6Hi_-4c979oydR8X146wqn0Ha4eBuDtpyxm4BQvz0sWTxMQZdiJ440VECY6HIw" height="40"/>
 </p>
