@@ -6,7 +6,7 @@
     <th><img align="center" src="https://miro.medium.com/max/1200/0*OeoznZ1fcM56p0Jm.gif" height="100"></th> 
   </tr>
   <tr>
-    <th><img align="center" src="https://raw.githubusercontent.com/aquietlife/whisp/master/fireworks.gif" height="100" width="150"></th>
+    <th><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Ackley.gif" height="100" width="150"></th>
     <th><img align="center" src="https://github.com/KanishkNavale/Trajectory-Planning-using-HER-and-Reward-Engineering/raw/master/reward_engg.gif" height="100" width="150"></th> 
   </tr>
 </table>
