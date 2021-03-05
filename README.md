@@ -1,19 +1,9 @@
 # Hallo! Ich bin Kanishk
 
-<div style="float:right">
-<table style="float: right">
-  <tr>
-    <th><img align="center" src="https://nav74neet.github.io/media/blog/openaigym/mountain-car-v0.gif" height="100"></th>
-    <th><img align="center" src="https://miro.medium.com/max/1200/0*OeoznZ1fcM56p0Jm.gif" height="100"></th> 
-  </tr>
-  <tr>
-    <th><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Ackley.gif" height="100" width="150"></th>
-    <th><img align="center" src="https://github.com/KanishkNavale/Trajectory-Planning-using-HER-and-Reward-Engineering/raw/master/reward_engg.gif" height="100" width="150"></th> 
-  </tr>
-</table>
-</div>
+<img align="right" src="https://i.pinimg.com/originals/05/3c/39/053c39f4c14d99d4bc143c05dc3ca219.gif" height="200">
 
 <p float="left">
+
 <a href='https://www.linkedin.com/in/kanishknavale/'>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
