@@ -1,7 +1,7 @@
 # Hallo! Ich bin Kanishk
 
-<!---Display picture on right--->
-<img align="right" src="https://i.pinimg.com/originals/05/3c/39/053c39f4c14d99d4bc143c05dc3ca219.gif" height="200">
+ <!---Display picture on right--->
+<img align="right" src="https://metrics.lecoq.io/KanishkNavale?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FBerlin">
 
 <!---Contact--->
 <p float="left">
@@ -34,3 +34,4 @@
     <img src="https://imdcdn-w0vwwgyt12rypz.netdna-ssl.com/wp-content/uploads/2020/07/FANUC-logo.png" height="30"/>
     <img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg" height="30" /> 
 </p>
+
