@@ -1,7 +1,7 @@
 # Hallo! Ich bin Kanishk
 
  <!---Display picture on right--->
-<img align="right" src="https://metrics.lecoq.io/KanishkNavale?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FBerlin">
+<img align="right" src="https://metrics.lecoq.io/KanishkNavale?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FBerlin">
 
 <!---Contact--->
 <p float="left">
