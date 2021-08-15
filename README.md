@@ -1,5 +1,8 @@
 # Hallo! Ich heiße Kanishk
 
+Autonomous Systems Engineer with experience in Deep Reinforcement Learning, Robotics, Machine Learning & Computer Vision working with 10+ teams over 35+ projects.
+
+# 
  <!---Display picture on right--->
 <img align="right" src="https://i.pinimg.com/originals/05/3c/39/053c39f4c14d99d4bc143c05dc3ca219.gif" height="200">
 
@@ -13,6 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </p>
 
+Skills
 <!---Skills--->
 <p float="left">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
@@ -30,9 +34,10 @@
 </p>
 
 <!---Education & Work--->
+Work & Education Experience
 <p float="left">
-    <img src="https://imdcdn-w0vwwgyt12rypz.netdna-ssl.com/wp-content/uploads/2020/07/FANUC-logo.png" height="30"/>
-    <img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg" height="30" /> 
-    <img src="MPI.jpeg" height="30"/>
+    <img src="https://imdcdn-w0vwwgyt12rypz.netdna-ssl.com/wp-content/uploads/2020/07/FANUC-logo.png" height="40"/>
+    <img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg" height="40" /> 
+    <img src="MPI.jpeg" height="40"/>
 
 </p>
