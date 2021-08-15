@@ -1,6 +1,5 @@
 # Hallo! Ich heiße Kanishk
 
-Contact
  <!---Display picture on right--->
 <img align="right" src="https://i.pinimg.com/originals/05/3c/39/053c39f4c14d99d4bc143c05dc3ca219.gif" height="200">
 
@@ -14,7 +13,7 @@ Contact
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </p>
 
-Skills
+
 <!---Skills--->
 <p float="left">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
@@ -31,8 +30,8 @@ Skills
     <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 </p>
 
+
 <!---Education & Work--->
-Work & Education Experience
 <p float="left">
     <img src="https://imdcdn-w0vwwgyt12rypz.netdna-ssl.com/wp-content/uploads/2020/07/FANUC-logo.png" height="35"/>
     <img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg" height="35" /> 
