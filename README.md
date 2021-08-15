@@ -1,8 +1,6 @@
 # Hallo! Ich heiße Kanishk
 
-Autonomous Systems Engineer with experience in Deep Reinforcement Learning, Robotics, Machine Learning & Computer Vision working with 10+ teams over 35+ projects.
-
-# 
+Contact
  <!---Display picture on right--->
 <img align="right" src="https://i.pinimg.com/originals/05/3c/39/053c39f4c14d99d4bc143c05dc3ca219.gif" height="200">
 
