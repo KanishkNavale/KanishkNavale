@@ -33,4 +33,6 @@
 <p float="left">
     <img src="https://imdcdn-w0vwwgyt12rypz.netdna-ssl.com/wp-content/uploads/2020/07/FANUC-logo.png" height="30"/>
     <img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg" height="30" /> 
+    <img src="https://is.mpg.de/assets/header/header_logo_is-35f94c29a810a1541e01d2e275292633.png" height="30"/>
+
 </p>
