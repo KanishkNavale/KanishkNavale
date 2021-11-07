@@ -33,5 +33,5 @@
     <img src="https://imdcdn-w0vwwgyt12rypz.netdna-ssl.com/wp-content/uploads/2020/07/FANUC-logo.png" height="35"/>
     <img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg" height="35" /> 
     <img src="MPI.jpeg" height="35"/>
-
+    <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGC1twk1zu72A/company-logo_200_200/0/1545378570900?e=2159024400&v=beta&t=05j0uZf8NJOGmBLnblK9d-CBHbs-N6c5frkxrPkQ7Wo" height="35"/>
 </p>
