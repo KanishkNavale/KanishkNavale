@@ -34,4 +34,5 @@
     <img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg" height="35" /> 
     <img src="MPI.jpeg" height="35"/>
     <img src="https://wcd-craft.imgix.net/assets/img/logo/BOSCH_GERMAN_LEFT_RGB5.png?auto=format&dpr=1&crop=false&fit=fit&w=614&h=288&lossless=1&q=50" height="35"/>
+    <img src="https://sereact.ai/en/logo_lightmode.png" height="35"/>
 </p>
