@@ -1,5 +1,4 @@
-# Hallo! Ich heiße Kanishk
-
+<img src="https://thumbs.gfycat.com/CalmClearcutIaerismetalmark-size_restricted.gif"></a> 
 
 <!---Contact--->
 <p float="left">
@@ -26,7 +25,6 @@
 
 <!---Education & Work--->
 <p float="left">
-    <img src="https://imdcdn-w0vwwgyt12rypz.netdna-ssl.com/wp-content/uploads/2020/07/FANUC-logo.png" height="35"/>
     <img src="MPI.jpeg" height="35"/>
     <img src="https://wcd-craft.imgix.net/assets/img/logo/BOSCH_GERMAN_LEFT_RGB5.png?auto=format&dpr=1&crop=false&fit=fit&w=614&h=288&lossless=1&q=50" height="35"/>
     <img src="https://avatars.githubusercontent.com/u/71934363?s=200&v=4" height="35"/>
