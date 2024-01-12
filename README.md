@@ -1,4 +1,4 @@
-<img src="https://github.com/KanishkNavale/SLOG/raw/main/thesis_report/images/robot/aligned.png" height="300"></a> 
+<img src="https://github.com/KanishkNavale/SLOG/raw/main/thesis_report/images/robot/aligned.png"></a> 
 
 <!---Contact--->
 <p float="left">
