@@ -1,5 +1,5 @@
 M.Sc. Thesis Preview:
-<img src="https://github.com/KanishkNavale/SLOG/raw/main/thesis_report/images/robot/aligned.png"></a> 
+<img src="https://github.com/KanishkNavale/SLOG/raw/main/thesis_report/previews/keypointnet.gif"></a> 
 
 <!---Contact--->
 <p float="left">
