@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/8NUf3oIZte4AAAAC/3po-star-wars.gif"></a> 
+<img src="https://github.com/KanishkNavale/AI-for-Robot-Tasks/raw/master/presentation/spotlight.gif"></a> 
 
 <!---Contact--->
 <p float="left">
