@@ -1,4 +1,4 @@
-<img src="https://github.com/KanishkNavale/AI-for-Robot-Tasks/raw/master/presentation/spotlight.gif"></a> 
+<img src="https://github.com/KanishkNavale/AI-for-Robot-Tasks/raw/master/presentation/spotlight.gif" height="250"></a> 
 
 <!---Contact--->
 <p float="left">
