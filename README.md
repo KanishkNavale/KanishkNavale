@@ -1,10 +1,8 @@
 M.Sc. Thesis Preview:
-
 <img src="https://github.com/KanishkNavale/SLOG/raw/main/thesis_report/previews/keypointnet.gif" height="250"></a> 
 
 <!---Contact--->
 Contact:
-
 <p float="left">
     <a href='https://www.linkedin.com/in/kanishknavale/'>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -17,7 +15,6 @@ Contact:
 
 <!---Skills--->
 Skills:
-
 <p float="left">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
     <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
@@ -31,7 +28,6 @@ Skills:
 
 <!---Education & Work--->
 Work Experience:
-
 <p float="left">
     <img src="MPI.jpeg" height="35"/>
     <img src="https://wcd-craft.imgix.net/assets/img/logo/BOSCH_GERMAN_LEFT_RGB5.png?auto=format&dpr=1&crop=false&fit=fit&w=614&h=288&lossless=1&q=50" height="35"/>
