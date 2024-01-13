@@ -1,4 +1,5 @@
 M.Sc. Thesis Preview:
+
 <img src="https://github.com/KanishkNavale/SLOG/raw/main/thesis_report/previews/keypointnet.gif" height="250"></a> 
 
 <!---Contact--->
