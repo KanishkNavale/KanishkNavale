@@ -1,6 +1,6 @@
-M.Sc. Thesis Preview:
+Preview of one of the repository:
 
-<img src="https://github.com/KanishkNavale/SLOG/raw/main/thesis_report/previews/keypointnet.gif" height="250"></a> 
+<img src="https://github.com/KanishkNavale/SLOG/raw/main/thesis_report/previews/keypointnet.gif" height="150"></a> 
 
 <!---Contact--->
 Contact:
