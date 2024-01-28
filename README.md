@@ -1,4 +1,4 @@
-Preview of one of the repository:
+Preview of one of the repositories:
 
 <img src="https://github.com/KanishkNavale/SLOG/raw/main/thesis_report/previews/keypointnet.gif" height="150"></a> 
 
