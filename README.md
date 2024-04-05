@@ -1,10 +1,7 @@
-<img src="https://i.pinimg.com/originals/31/a7/42/31a74241af9e083f9521a53730c3d2fc.gif" alt="alt text" title="Optional title" height="200">
+[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/for-robots.svg)](https://forthebadge.com)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red?style=style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-blue?style=style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-yellow?style=style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-grey?style=style=for-the-badge)
-![Gernerative AI](https://img.shields.io/badge/Generative%20AI-green?style=style=for-the-badge)
+<img src="https://i.pinimg.com/originals/31/a7/42/31a74241af9e083f9521a53730c3d2fc.gif" alt="alt text" title="Optional title" height="200">
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
