@@ -25,4 +25,4 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![NI](https://img.shields.io/badge/LabVIEW-FFDB00.svg?style=for-the-badge&logo=LabVIEW&logoColor=black)
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzknEwOPqienzMS5swHC7UzsUm2AdNMQU7wi67YLFGnA&s" title="C-D374NVGQVB" height="100">
+<img src="sources/cswp-solidworks-certification-badge.png" title="C-D374NVGQVB" height="150">
